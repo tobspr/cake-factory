@@ -204,7 +204,6 @@ public class PlayerController : MonoBehaviour
         if (hitLower.normal.y > 0.1f)
         {
             // already a slope
-            Debug.Log("Already a slope.");
             return;
         }
 
@@ -213,7 +212,6 @@ public class PlayerController : MonoBehaviour
         var blockedAbove = Physics.Raycast(originUpper, moveDir, StepClimbCheckDistance, JumpFloorMask);
         if (blockedAbove)
         {
-            Debug.Log("Wall too high");
             return;
         }
 
@@ -221,7 +219,6 @@ public class PlayerController : MonoBehaviour
         // --- perform step (small vertical snap) ----------------------
         var climb = StepClimbLift * Time.fixedDeltaTime;
         Rigidbody.MovePosition(Rigidbody.position + Vector3.up * StepClimbLift);
-        Debug.Log("Climbed: " + climb);
     }
 
     private void FixedUpdate()
@@ -238,7 +235,6 @@ public class PlayerController : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
     }
 
-    // optional gizmo for ground check
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
