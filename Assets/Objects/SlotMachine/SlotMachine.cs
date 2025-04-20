@@ -20,7 +20,7 @@ public class SlotMachine : MonoBehaviour
         for (var i = 0; i < SlotTransforms.Length; i++)
         {
             var t = SlotTransforms[i];
-            t.localRotation = Quaternion.Euler(0, Time.fixedTime * 180.0f, 0);
+            t.localRotation = Quaternion.Euler(-Time.fixedTime * 360.0f, 0, 0);
         }
     }
 }
