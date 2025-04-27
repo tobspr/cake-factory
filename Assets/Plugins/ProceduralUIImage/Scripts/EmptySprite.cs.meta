@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 994f4946f61e22f4a8969f373cb28260
+timeCreated: 1447797060
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52200
+  packageName: Procedural UI Image
+  packageVersion: 2.2
+  assetPath: Assets/ProceduralUIImage/Scripts/EmptySprite.cs
+  uploadId: 392599

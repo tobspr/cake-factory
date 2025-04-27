@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8491d8238bcd844bab576822a7b2be2
+timeCreated: 1503838006
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/zz_Common/Materials/TI_Demo_Fullscreen_Translucent
+    Image_Steam.mat
+  uploadId: 724736

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b05506e8cfa429f9ae909aab9a9e3e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Script/TranslucentImageMeshEffect.cs
+  uploadId: 724736

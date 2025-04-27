@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e131326f41ac494b9275d78e6614b80
+timeCreated: 1503822126
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/BiRP/Materials/TI_Demo_BiRP_Diffuse_Green.mat
+  uploadId: 724736

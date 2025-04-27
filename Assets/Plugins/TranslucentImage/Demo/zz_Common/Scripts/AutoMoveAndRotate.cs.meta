@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a1347817507220a4384f3ff6f7c24546
+timeCreated: 1539852386
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/zz_Common/Scripts/AutoMoveAndRotate.cs
+  uploadId: 724736

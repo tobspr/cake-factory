@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cd3dc79489c3ee540859c99623006e48
+timeCreated: 1447959346
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52200
+  packageName: Procedural UI Image
+  packageVersion: 2.2
+  assetPath: Assets/ProceduralUIImage/Scripts/ProceduralImageModifier.cs
+  uploadId: 392599

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9ba876e9f43e4360a9d4ee63c412ce07
+timeCreated: 1729669244
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Resources/Shaders/EfficientBlur.hlsl
+  uploadId: 724736

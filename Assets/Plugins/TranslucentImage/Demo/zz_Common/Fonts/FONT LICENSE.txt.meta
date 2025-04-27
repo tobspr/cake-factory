@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba63a6c1cc1dda7409779a664d94f849
+timeCreated: 1475561905
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/zz_Common/Fonts/FONT LICENSE.txt
+  uploadId: 724736

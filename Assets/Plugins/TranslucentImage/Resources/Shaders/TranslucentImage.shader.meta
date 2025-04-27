@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1115addd36579a429d5e6b4ffae668d
+timeCreated: 1539852404
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Resources/Shaders/TranslucentImage.shader
+  uploadId: 724736

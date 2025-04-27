@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 96c5704d0681e35408630c488fc0c234
+labels:
+- TranslucentImageResource
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Material/Default-Translucent.mat
+  uploadId: 724736

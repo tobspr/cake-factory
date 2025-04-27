@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27d83044d20c5de4e9d57d35e4fda368
+timeCreated: 1447154779
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52200
+  packageName: Procedural UI Image
+  packageVersion: 2.2
+  assetPath: Assets/ProceduralUIImage/Resources/Shaders/ProceduralImageRuntime.shader
+  uploadId: 392599

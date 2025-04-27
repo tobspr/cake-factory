@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2347420b79bac5a4bbc9219b1b6bddea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/zz_Common/Configs/Minimal
+    Scene Blur Config.asset
+  uploadId: 724736

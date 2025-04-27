@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8c68a14f2a58eb4eb95978229e5db5e
+labels:
+- TranslucentImageEditorResources
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Resources/Shaders/interop_birp.cginc
+  uploadId: 724736

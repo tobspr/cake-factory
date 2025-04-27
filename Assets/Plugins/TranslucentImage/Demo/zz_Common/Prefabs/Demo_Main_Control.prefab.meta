@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72cca47643533904a8fd6599c6a74cc5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78464
+  packageName: Translucent Image - Fast UI Background Blur
+  packageVersion: 5.4.0
+  assetPath: Assets/Le Tai's Asset/TranslucentImage/Demo/zz_Common/Prefabs/Demo_Main_Control.prefab
+  uploadId: 724736

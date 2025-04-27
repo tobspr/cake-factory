@@ -214,7 +214,6 @@ public class PlayerMovementController : MonoBehaviour
             return;
         }
 
-
         // --- perform step (small vertical snap) ----------------------
         var climb = StepClimbLift * Time.fixedDeltaTime;
         Rigidbody.MovePosition(Rigidbody.position + Vector3.up * climb);
@@ -228,10 +227,9 @@ public class PlayerMovementController : MonoBehaviour
         UpdateStepClimbFixed();
     }
 
-
     private bool IsGrounded()
     {
-        return Physics.Raycast(transform.position + 0.1f * Vector3.up, Vector3.down, JumpGroundCheckDist + 0.1f,
+        return Physics.Raycast(PlayerTransform.position + 0.1f * Vector3.up, Vector3.down, JumpGroundCheckDist + 0.1f,
             JumpFloorMask);
     }
 }

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 306db2aa0cadecd4a82e2332d694d2c4
+timeCreated: 1448405815
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52200
+  packageName: Procedural UI Image
+  packageVersion: 2.2
+  assetPath: Assets/ProceduralUIImage/Demo/demo_examples.unity
+  uploadId: 392599
